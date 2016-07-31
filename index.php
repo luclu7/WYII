@@ -2,13 +2,15 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
     <title>WYIT?</title>
 </head>
 <body>
 
-<p>
+<div class="centered">
+<h1>
     We are in <?php date_default_timezone_set('Europe/London'); echo date("Y"); ?>.
-</p>
+</h1>
 
 </body>
 </html>
