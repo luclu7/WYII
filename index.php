@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@Luclu7Gaming" />
+	<meta name="twitter:title" content="WYII" />
+	<meta name="twitter:description" content="What year is it?" />
+	<meta name="twitter:image" content="https://whatyearisit.date/wyii.png" />
     <meta http-equiv="refresh" content="5; URL=https://whatyearisit.date/">
     
     <meta charset="utf-8">
