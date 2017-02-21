@@ -9,7 +9,23 @@
 	
 	<meta charset="utf-8">
 	
-	<link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+	<style>
+	h1, .text-center, #text-center {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin: auto;
+            font-size: 6em;
+	}
+
+	div .centered {
+            display: flex;
+            min-height: 85vh;
+	}
+	</style>
 	
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -35,7 +51,8 @@
 <h1 class=text-center>
 	We are in <div id="year"></div>.
 </h1>
-
+</div>
+	
 </body>
 </html>
 <!-- Hello :D -->
