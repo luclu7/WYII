@@ -49,7 +49,7 @@
 
 <div class="centered">
 <h1 class=text-center>
-	We are in <div id="year"></div>.
+	We are in&nbsp;<div id="year"></div>.
 </h1>
 </div>
 	
